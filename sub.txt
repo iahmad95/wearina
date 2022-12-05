@@ -1,4 +1,3 @@
 vless://293e1606-4c8b-4cdc-90ac-8c422a89b50f@s1.netbaz.ga:1080?type=ws&security=none&path=%2F#mrit
-vless://293e1606-4c8b-4cdc-90ac-8c422a89b50f@s1.netbaz.ga:1080?type=ws&security=none&path=%2F#mrit
-vless://293e1606-4c8b-4cdc-90ac-8c422a89b50f@s1.netbaz.ga:1080?type=ws&security=none&path=%2F#mrit
 vless://293e1606-4c8b-4cdc-90ac-8c422a89b50f@s1.netbaz.ga:1080?type=ws&security=none&path=%2F#mritvless://293e1606-4c8b-4cdc-90ac-8c422a89b50f@s1.netbaz.ga:1080?type=ws&security=none&path=%2F#mrit
+vless://293e1606-4c8b-4cdc-90ac-8c422a89b50f@s1.netbaz.ga:1080?type=ws&security=none&path=%2F#mrit
