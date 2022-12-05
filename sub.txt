@@ -1,3 +1,3 @@
 vless://293e1606-4c8b-4cdc-90ac-8c422a89b50f@s1.netbaz.ga:1080?type=ws&security=none&path=%2F#mrit
-vless://293e1606-4c8b-4cdc-90ac-8c422a89b50f@s1.netbaz.ga:1080?type=ws&security=none&path=%2F#mritvless://293e1606-4c8b-4cdc-90ac-8c422a89b50f@s1.netbaz.ga:1080?type=ws&security=none&path=%2F#mrit
-vless://293e1606-4c8b-4cdc-90ac-8c422a89b50f@s1.netbaz.ga:1080?type=ws&security=none&path=%2F#mrit
+vless://d08f0b9b-3890-4a3f-c8cc-ae9fcfbacd1a@s2.netbaz.ga:59036?type=ws&security=none&path=%2F#hoseini
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJtaS0xMTEiLAogICJhZGQiOiAiczEubmV0YmF6LmdhIiwKICAicG9ydCI6IDM2MjEyLAogICJpZCI6ICIxY2I0OThmNC02ZDU1LTRiN2ItOGQ4OC1hNjhjZDAyOWU5MWQiLAogICJhaWQiOiAwLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJub25lIgp9
